@@ -1,13 +1,12 @@
-src
+lib
 scripts
+node_modules
+_JUNKS
 .vercel
-.storybook
-storybook-static
 .editorconfig
 .prettierrc
 .eslintignore
 .eslintrc
 tsconfig.json
 rollup.*
-build-storybook.log
 vite.config.js
